@@ -21,7 +21,7 @@ const Screen03 = ({ navigation }) => {
         <View>
             {/* Hình ảnh đầu trang */}
             <View style={{ marginBottom: 20 }}>
-                <Image source={require("../assets/Data/Image 20.png")} style={{ height: 200, width: "100%" }} />
+                <Image source={require("../assets/Data/Image_20.png")} style={{ height: 200, width: "100%" }} />
             </View>
 
             <View style={{ padding: 20 }}>
