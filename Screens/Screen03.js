@@ -6,9 +6,9 @@ import Icon from "react-native-vector-icons/FontAwesome";
 const Screen03 = ({ navigation }) => {
     // Khai báo state cho checkbox, user, email và password
     const [isChecked, setIsChecked] = useState(false); // Trạng thái checkbox
-    const [user, setUser] = useState("user1");
-    const [email, setEmail] = useState("minhtruc");
-    const [password, setPassword] = useState("minhtrucne");
+    const [user, setUser] = useState("user01");
+    const [email, setEmail] = useState("ToVuGiaHuy");
+    const [password, setPassword] = useState("12345678");
 
     // Khai báo state cho thông tin người dùng
     const [info, setInfo] = useState({
