@@ -28,7 +28,7 @@ const Screen02 = ({ navigation }) => {
                 />
             </View>
             <View style={{ alignItems: "center", marginBottom: 40 }}>
-                <Image source={require("../assets/Data/Image 19.png")} style={{ width: 100, height: 100 }} /> {/* Hiển thị hình ảnh */}
+                <Image source={require("../assets/Data/Image_19.png")} style={{ width: 100, height: 100 }} /> {/* Hiển thị hình ảnh */}
                 <Text style={{ fontSize: 30, fontWeight: "600", marginVertical: 10 }}>Nice to see you</Text> {/* Hiển thị tiêu đề */}
                 <Text style={{ fontSize: 15, color: "gray", textAlign: "center" }}>Create your account</Text> {/* Hiển thị mô tả */}
             </View>
